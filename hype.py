@@ -2,7 +2,7 @@
 import tweepy as tp
 
 #Variables that contains the user credentials to access Twitter API 
-access_token = "4255093813-tNAjc5Pa6N7GDZxXqR1sR0669SjRz6ZeLYZPKWo"
+access_token = "4255093813-tNAjc5Pa6N7GDZxXqR1sR0669SjRz6ZeLYZPKWo"         #what is the point of a user-defined access token?
 access_token_secret = "H54qdIoxg1yAoTBynYIhCsmHZ2YdF72EY8itJZyYvvQNC"
 consumer_key = "RBHUFOxvArccvsOkgnmKlCsOv"
 consumer_secret = "tjHiBSpxyDxGvsixjCvOwrT4ky33MyUxz41KdOkBbdKLLLBPxE"
